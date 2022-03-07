@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18S_Pro/9.2.1.2/cn/20211215012200/7e541aae/update.zip
+  ROM_URL: https://aaa3ykmq2gm7sciuwnweuo3o3uwhc888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18S_Pro/9.2.1.2/cn/20211215012200/7e541aae/update.zip?f_ver=v1&max_age=7776000&r=GgUxQj1SGmkuLD01JFhKM1wcIFs0HRslJyhgHjpLVSETAyAdCARMKy1qIj06Q01nSiIaYjwHGn9md2FpfQsXNRxedwJ8WQR0eXB%2FaWELCGZdRiAHellUJy1qOig3WEwzXAssQh0BIFwtDFt3JzUqNjBdVmc%3D&ppiouid=62263d89c921280001e3255324112f30
   ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
